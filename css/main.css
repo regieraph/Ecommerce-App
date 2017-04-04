@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  padding-top: 100px; ;
+  background-image: url('../img/background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+button{
+  outline: none;
+  background-color: white;
+}
+
+.contact {
+  margin: 5px 5px 5px 5px;
+  font-weight: bolder;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+#navBBar{
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(lightblue, navy);
+  margin-top: -44px;
+  padding-bottom: 5px;
+  border-style: groove;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: lightblue;
+}
+
+#h3{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  margin-top: 7px;
+  margin-left: 267px;
+  margin-right: 0;
+  padding-top: 8px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  font-size: 16px;
+  color: #FAFAFA;
+  font-family: 'Titillium Web', sans-serif;
+  text-shadow: 5px 10px 5px 10px black;
+}
+
+.header1 {
+  position: relative;
+  width: 100%;
+  font-size: 56px;
+  text-align: center;
+  height: 80px;
+  /*background: red; /* For browsers that do not support gradients */
+  /*background: -webkit-linear-gradient(navy, lightblue);*/*/
+  margin-top: 10px;
+  margin-left: 9px;
+  padding-top: 40px;
+  padding-bottom: -20px;
+  color: #fff;
+  font-family: 'Revalia', cursive;
+  text-shadow: 2px 5px 2px 5px black;
+}
+
+
+#dropdown {
+  /*margin-top: -10px;
+  margin-bottom: -1.75px;*/
+  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: gray;
+  outline-style: none;
+  margin-left: 118px;
+  padding-top: 0px;
+  padding-right: 10px;
+}
+
+.dropdown2 {
+  display: inline-block;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: gray;
+  outline-style: none;
+  margin-left: 887px;
+  padding-top: 0px;
+  padding-right: 10px;
+
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 13px;
+  margin-left: 3px;
+  margin-bottom: -1px;
+  padding: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+.button2 {
+  display: inline-block;
+  border-radius: 3px;
+  border-width: 1px;
+  width: 131px;
+  border-style: groove;
+  border-color: gray;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 8px;
+  margin-top: 5px;
+  background-color: lightblue;
+  font-weight: bold;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.mangaImg {
+    position: relative;
+    width:  140px;
+    height: 220px;
+    padding: 0px 0px 0px 0px;
+    border-radius: 2px;
+    border-bottom-color: black;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    text-align: center;
+}
+
+#navBar {
+  padding: 15px;
+  font-weight: bold;
+}
+
+#newDiv {
+  margin-left: 7px;
+  margin-right: -11px;
+  margin-top: 20px;
+  margin-bottom: -15px;
+  border-style: groove;
+  border-width: 0.5px;
+  border-color: black;
+  border-radius: 5px;
+  padding-top: 8px;
+  padding-left: 20px;
+  padding-bottom: 7px;
+  font-family: 'Bitter', serif;
+  background-color: white;
+}
+
+#newDiv:hover {
+  opacity: .9;
+}
+
+.newH1{
+  position: relative;
+  margin-left: 64px;
+  margin-right: 82px;
+  text-align: center;
+  font-size: 14.5px;
+  font-weight: 600;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+.mangaGenre{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.button {
+  background-color: #FFA408;
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-width: medium;
+  border-radius: 5px;
+  font-size: 12px;
+  font-family: 'Bitter', serif;
+  outline-style: none;
+}
